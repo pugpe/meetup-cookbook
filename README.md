@@ -10,6 +10,6 @@
  5. [Organização no dia](arquivos/ORGANIZACAO-DIA.md)
 
 ## Contribuição
-  Esse repositório está aberto a contribuições, se você gostou de algo que foi realizado no PUG e gostaria de dá **feedbacks** e **propor mudanças**, abra uma Issue ou faça um Pull Request.
+  Esse repositório está aberto a contribuições, se você gostou de algo que foi realizado no PUG e gostaria de dar **feedbacks** e **propor mudanças**, abra uma Issue ou faça um Pull Request.
 
   Adorariamos receber sua ajuda nessa jornada <3
