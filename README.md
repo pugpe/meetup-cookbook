@@ -13,3 +13,6 @@
   Esse repositório está aberto a contribuições, se você gostou de algo que foi realizado no PUG e gostaria de dar **feedbacks** ou **propor mudanças**, abra uma Issue ou faça um Pull Request.
 
   Adoraríamos receber sua ajuda nessa jornada <3
+
+## Tradução
+- Read this page in [English](/README-en.md)
