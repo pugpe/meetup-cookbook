@@ -14,5 +14,9 @@
 
   Adoraríamos receber sua ajuda nessa jornada <3
 
+## Código de Conduta
+
+Nós temos um [código de conduta](https://python.org.br/cdc/), esperamos que todos que façam parte do evento concordem com ele. Se você ainda não deu uma olhada nele, recomendamos fortemente sua leitura, vai ser super rápida o/ 
+
 ## Tradução
 - Read this page in [English](/README-en.md)
