@@ -16,7 +16,7 @@
 
 ## Code of conduct
 
-We have a [code of conduct] (https://python.org.br/cdc/) and we expect everyone, who is involved in the event, agree with it. If you haven't taken a look at it yet, we strongly recommend reading it, it will be super fast o/
+We have a [code of conduct](https://python.org.br/cdc/) and we expect everyone, who is involved in the event, agree with it. If you haven't taken a look at it yet, we strongly recommend reading it, it will be super fast o/
 
 ## Translation
 - Leia esta página em [Português](/README.md)
