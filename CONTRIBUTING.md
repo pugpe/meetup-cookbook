@@ -45,6 +45,6 @@ Os pré-requisitos acima serem seguidos não significa que os mantenedores do pr
 - Adicione uma descrição do commit da terceira linha em diante, com 72 caracteres ou menos por linha;
     - Ao se perguntar se é necessária uma descrição para o *commit*, se pergunte se alguém quiser investigar o "porquê desta mudança ter sido introduzida", será possível apenas pelo título e conteúdo do *commit*;
     - Adicione uma descrição que responda a pergunta "Por que este *commit* é necessário?";
-- Rerefencie *issues* ou *pull requests* no fim da mensagem;
+- Referencie *issues* ou *pull requests* no fim da mensagem;
 
 Obrigado! :heart: :heart: :heart:
