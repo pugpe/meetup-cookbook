@@ -1,6 +1,6 @@
 # Organização de data
 
->Aqui estão algumas instruções e dicas a serem seguidas para os organizadores ou voluntários do PUG-PE no dia do evento.
+>Aqui estão algumas instruções e dicas a serem seguidas pelos organizadores ou voluntários do PUG-PE no dia do evento.
 
 ## Instruções
 
