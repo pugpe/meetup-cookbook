@@ -13,3 +13,8 @@
   Esse repositório está aberto a contribuições, se você gostou de algo que foi realizado no PUG e gostaria de dar **feedbacks** ou **propor mudanças**, abra uma Issue ou faça um Pull Request.
 
   Adoraríamos receber sua ajuda nessa jornada <3
+
+
+## Código de Conduta
+
+Nós temos um [código de conduta](https://python.org.br/cdc/), esperamos que todos que façam parte do evento concordem com ele. Se você ainda não deu uma olhada nele, recomendamos fortemente sua leitura, vai ser super rápida o/ 
