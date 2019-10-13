@@ -15,7 +15,7 @@
 ## Contribution
   Contributions to this repository are welcome. If you liked something of any PUG meetup and would like to give **feedbacks** or **propose changes**, open an Issue or create a Pull Request.
 
-  We would love your help on this journey <3
+  We would love your help on this journey :heart:
 
 ## Code of conduct
 
