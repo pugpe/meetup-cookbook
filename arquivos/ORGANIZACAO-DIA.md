@@ -12,11 +12,9 @@
 
 ### Chegue cedo
 
-As pessoas responsáveis muito provavelmente vão precisar preparar o lugar para o evento, organizando cadeiras, recebendo os palestrantes ou participantes,
 Os responsáveis pela organização do encontro precisarão preparar o local do evento, por isso chegue cedo! Assim você poderá resolver imprevistos com mais calma e organizar cadeiras, preparar o projetor, receber os palestrantes e participantes.
-
-Também é importante que haja uma sinalização de onde ocorrerá o evento, visto que muitas vezes os encontros acontecem, por exemplo, em salas de universidades, e, como nem todos conhecem o local, acabam se perdendo e não encontram com facilidade a sala do evento.
 Muitas vezes os encontros acontecem, por exemplo, em salas de universidades. Como provavelmente, nem todos os participantes conhecerão o local, muitos acabam se perdendo e não encontram com facilidade a sala do evento. Por isso, sinalize bem onde ocorrerá o evento! 
+
 ---
 
 
