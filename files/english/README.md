@@ -1,4 +1,7 @@
 # Meetup Cookbook
+![GitHub stars](https://img.shields.io/github/stars/pugpe/meetup-cookbook?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/pugpe?style=social) 
+![GitHub](https://img.shields.io/github/license/pugpe/meetup-cookbook)
 
 >This repository serves as a guide for organizing and planning a [PUG-PE (Python User Group - Pernambuco)](http://pycon.pug.pe) meetup 
 
@@ -12,7 +15,7 @@
 ## Contribution
   Contributions to this repository are welcome. If you liked something of any PUG meetup and would like to give **feedbacks** or **propose changes**, open an Issue or create a Pull Request.
 
-  We would love your help on this journey <3
+  We would love your help on this journey :heart:
 
 ## Code of conduct
 

@@ -1,4 +1,7 @@
 # Meetup Cookbook
+![GitHub stars](https://img.shields.io/github/stars/pugpe/meetup-cookbook?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/pugpe?style=social) 
+![GitHub](https://img.shields.io/github/license/pugpe/meetup-cookbook)
 
 >Esse repositório serve como guia na organização e planejamento de um evento do [PUG-PE (Python User Group - Pernambuco)](http://pycon.pug.pe)
 
