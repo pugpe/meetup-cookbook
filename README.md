@@ -3,7 +3,7 @@
 >Esse repositório serve como guia na organização e planejamento de um evento do [PUG-PE (Python User Group - Pernambuco)](http://pycon.pug.pe)
 
 ## Índice
- 1. [Pipeline Principal](arquivos/PIPELINE.md)
+ 1. [Passo a passo Principal](arquivos/PASSO-A-PASSO.md)
  2. [Definir dia](arquivos/DEFINIR-DIA.md)
  3. [Criar evento no site do PUG-PE](arquivos/EVENTOS-PUG.md)
  4. [Dicas de divulgação](arquivos/DIVULGACAO.md)
