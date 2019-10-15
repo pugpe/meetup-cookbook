@@ -6,7 +6,7 @@
 
 ### Some things to be aware of before the event's day
 
-It is important to the organizing member and volunteers to check if there are some items that might be necessary, just like: table, power plugs, video projector. It is wanted that, in case those items are not available, the members should look for alternate solutions so the meetup can happen in the best possible way for everyone.
+It is important to the organizing member and volunteers to check if there are some items that might be necessary (e.g., table, power plugs, video projector). It is wanted that, in case those items are not available, the members should look for alternate solutions so the meetup can happen in the best possible way for everyone.
 
 ---
 
