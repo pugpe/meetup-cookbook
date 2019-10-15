@@ -12,7 +12,7 @@ It is important to the organizing member and volunteers to check if there are so
 
 ### Show up early
 
-The one who are responsible for the organization of the meet up need to set up the event site, so, show up early! This way you can solve any unexpected issue calmly, set up the chairs, the video projector, greet the speakers and the participants.
+The people in charge of the meetup's organization need to set up the event site. So... Show up early! This way you can solve any unexpected issues calmly, set up the chairs, the video projector, greet the speakers and the participants.
 Lots of times the meetups happen, for example, in universities classrooms, and, most likely, not all participants know the site and end up getting lost and not finding the room where the event will be held. So, indicate well where the event will happen!
 
 ---
