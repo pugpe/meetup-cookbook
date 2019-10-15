@@ -20,4 +20,7 @@ Muitas vezes os encontros acontecem, por exemplo, em salas de universidades. Com
 
 ### Apresentação PUG-PE
 
-O PUG-PE é um evento que sempre recebe novos participantes e muitos, apesar de estarem participando do encontro, não conhecem a comunidade Python local ou, até mesmo, o que é uma comunidade. Por isso, é importante que haja uma breve apresentação, que dure entre 5 a 10 minutos, introduzindo o que é e quais os objetivos de uma comunidade e a comunidade Python local.
+PUG-PE é um evento que sempre recebe novos participantes e muitos, apesar de estarem participando do encontro, não conhecem a comunidade Python local ou, até mesmo, o que é uma comunidade. Por isso, é importante que haja uma breve apresentação, que dure entre 5 a 10 minutos, introduzindo:
+ - O que é uma comunidade 
+ - A comunidade Python local
+ - Quais os objetivos da comunidade
