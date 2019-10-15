@@ -19,4 +19,4 @@ Lots of times the meetups happen, for example, in universities classrooms, and, 
 
 ### PUG-PE introduction
 
-The PUG-PE is an event that is always welcoming new participants and lots of them, besides participating on the meet up, do not know the Python local community and, sometimes, not even what a community is. That's why it is really important that there is a brief introduction, lasting between 5 and 10 minutes, introducing what is and what are the goals of a community and the Python local community.
+The PUG-PE is an event that is always welcoming new participants and lots of them, besides participating on the meet up, do not know the Python local community and, sometimes, not even what a community is. That's why it is really important that there is a brief introduction, lasting between 5 and 10 minutes, introducing what is a comunitty and the Python local community and what are their goals.
