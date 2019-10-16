@@ -6,7 +6,7 @@
 
 >This repository serves as a guide for organizing and planning a [PUG-PE (Python User Group - Pernambuco)](http://pycon.pug.pe) meetup
 
-*Other languages: [Portuguese](README.md)*
+*Other languages: [Português](README.md)*
 
 ## Index
  1. [Main Pipeline](languages/english/files/PIPELINE.md)
