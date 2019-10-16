@@ -6,18 +6,18 @@
 
 >Esse repositório serve como guia na organização e planejamento de um evento do [PUG-PE (Python User Group - Pernambuco)](http://pycon.pug.pe)
 
-*Outras linguas: [English](languages/english/README.en.md)*
+*Outras linguas: [English](README.en.md)*
 
 ## Índice
- 1. [Passo a passo principal](arquivos/PASSO-A-PASSO.md)
- 2. [Definir dia](arquivos/DEFINIR-DIA.md)
- 3. [Criar evento no site do PUG-PE](arquivos/EVENTOS-PUG.md)
- 4. [Dicas de divulgação](arquivos/DIVULGACAO.md)
- 5. [Organização no dia](arquivos/ORGANIZACAO-DIA.md)
+ 1. [Passo a passo principal](languages/portuguese/arquivos/PASSO-A-PASSO.md)
+ 2. [Definir dia](languages/portuguese/arquivos/DEFINIR-DIA.md)
+ 3. [Criar evento no site do PUG-PE](languages/portuguese/arquivos/EVENTOS-PUG.md)
+ 4. [Dicas de divulgação](languages/portuguese/arquivos/DIVULGACAO.md)
+ 5. [Organização no dia](languages/portuguese/arquivos/ORGANIZACAO-DIA.md)
 
 ## Contribuição
 
-Este repositório está aberto a contribuições, se você gostou de algo que foi realizado no PUG e gostaria de dar **feedbacks** ou **propor mudanças**, leia nosso [guia de contribuição](CONTRIBUTING.md) e participe!
+Este repositório está aberto a contribuições, se você gostou de algo que foi realizado no PUG e gostaria de dar **feedbacks** ou **propor mudanças**, leia nosso [guia de contribuição](languages/portuguese/CONTRIBUTING.md) e participe!
 
 Adoraríamos receber sua ajuda nessa jornada :heart:
 
