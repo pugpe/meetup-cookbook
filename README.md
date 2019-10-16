@@ -1,17 +1,19 @@
 # Meetup Cookbook
 ![GitHub stars](https://img.shields.io/github/stars/pugpe/meetup-cookbook?style=social)
 [![\[Telegram\] PUG-PE](https://img.shields.io/badge/telegram-pugpe-blue.svg?style=flat-square)](https://t.me/pugpe)
-![Twitter Follow](https://img.shields.io/twitter/follow/pugpe?style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/pugpe?style=social)
 ![GitHub](https://img.shields.io/github/license/pugpe/meetup-cookbook)
 
 >Esse repositório serve como guia na organização e planejamento de um evento do [PUG-PE (Python User Group - Pernambuco)](http://pycon.pug.pe)
 
+*Outras linguas: [English](languages/english/README.en.md)*
+
 ## Índice
- 1. [Passo a passo principal](files/portuguese/PASSO-A-PASSO.md)
- 2. [Definir dia](files/portuguese/DEFINIR-DIA.md)
- 3. [Criar evento no site do PUG-PE](files/portuguese/EVENTOS-PUG.md)
- 4. [Dicas de divulgação](files/portuguese/DIVULGACAO.md)
- 5. [Organização no dia](files/portuguese/ORGANIZACAO-DIA.md)
+ 1. [Passo a passo principal](arquivos/PASSO-A-PASSO.md)
+ 2. [Definir dia](arquivos/DEFINIR-DIA.md)
+ 3. [Criar evento no site do PUG-PE](arquivos/EVENTOS-PUG.md)
+ 4. [Dicas de divulgação](arquivos/DIVULGACAO.md)
+ 5. [Organização no dia](arquivos/ORGANIZACAO-DIA.md)
 
 ## Contribuição
 
@@ -21,7 +23,4 @@ Adoraríamos receber sua ajuda nessa jornada :heart:
 
 ## Código de Conduta
 
-Nós temos um [código de conduta](https://python.org.br/cdc/), esperamos que todos que façam parte do evento concordem com ele. Se você ainda não deu uma olhada nele, recomendamos fortemente sua leitura, vai ser super rápida o/ 
-
-## Tradução
-- Read this page in [English](files/english/README.md)
+Nós temos um [código de conduta](https://python.org.br/cdc/), esperamos que todos que façam parte do evento concordem com ele. Se você ainda não deu uma olhada nele, recomendamos fortemente sua leitura, vai ser super rápida o/
