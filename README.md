@@ -6,7 +6,7 @@
 
 >Esse repositório serve como guia na organização e planejamento de um evento do [PUG-PE (Python User Group - Pernambuco)](http://pycon.pug.pe)
 
-*Outras linguas: [English](README.en.md)*
+*Outras línguas: [English](README.en.md)*
 
 ## Índice
  1. [Passo a passo principal](languages/portuguese/arquivos/PASSO-A-PASSO.md)
