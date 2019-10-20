@@ -1,7 +1,7 @@
 # Passo a passo inicial
 > Aqui está descrito o fluxo principal para criação de um encontro do PUG-PE
 
-Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por onde começar relaxa e se liga nesse checklist.
+Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por onde começar relaxa e se liga nesse checklist :stuck_out_tongue_closed_eyes: :star:
 
 
 ## Antes de organizar o evento
@@ -56,14 +56,38 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
   Alguns locais pedem que seja realizado o controle de entrada e saída, caso esse local que você escolheu seja esse tipo de local, realize o evento mesmo assim, mas lembre-se de utilizar algum sistema de inscrição para efetuar o controle ([Sympla](https://www.sympla.com.br/)). 
   
-- [ ] **Verificar a disponibilidade de dia e horário no local escolhido**
+- [ ] **O local tem disponibilidade para receber o evento?**
   
-  Caso esse local tenha muitas opções, siga para o proximo passo.
+  No caso, a disponibilidade desse local está compatível com o período do mês e até mesmo o mês que o evento deverá ocorrer? Verifique isso antes, **não deixe para verificar a disponibilidade encima da hora**, principalmente porque tentamos organizar encontros mensais.
+  
+  Caso esse local tenha muitas disponibilidade de horário, siga para o tópico abaixo.
 
-- [ ] **Abrir uma enquete no grupo do PUG-PE com os dias e horários disponíveis**
+- [ ] **Perguntei ao grupo do PUG-PE qual o melhor dia para eles?**
   
-  Temos muitas pessoas no grupo do PUG-PE, os membros mais ativos podem ajudar você a escolher o mehor dia e horário para ocorrer o evento.
+  Temos muitas pessoas no grupo do PUG-PE, os membros mais ativos podem ajudar você a escolher o mehor dia e horário para ocorrer o evento. Recomendamos à você abrir uma enquete no Telegram com as opções de dia/horário, o evento é para a comunidade, sendo assim, vamos fazer a comunidade participar das decições também :smile: 
   
-- [ ] **Confirmar o dia com o local escolhido**
+- [ ] **Tenho minhas data bem definidas?**
+
+  Agora que você tem a data do evento bem definida (espero que sejá com uma margem de 30 dias, porque você vai precisar), é hora de definir algumas datas importantes:
+    - [ ] Dia de abertura das submissões de palestras
+    - [ ] Dia de encerramento das submissões de palestras
+    - [ ] Período de votação de palestras
+    - [ ] Dia para confirmar a disponibilidade dos palestrantes aprovados
+    - [ ] Dia para abrir as inscrições
+    - [ ] Dia para resolver o coffebreak
+    - [ ] Dia do evento o/
+
+
+----
+
+## Outros pontos importantes
+*Algumas dicas gerais*
+
+- Entre em contato com os responsáveis pelas redes sociais/email oficial/adm do grupo... para te ajudar na divulgação do evento.
+- Faça divulgação fora dos grupos oficiais/perfis oficiais do PUG-PE, tem muita gente por ai que programa em Python ou quer começar e não sabe da existência do PUG-PE.
+- Não deixe para organizar o evento encima da hora, tenha pelo menos um período de 1 mês para fazer tudo.
+- Converse com a comunidade :heart:
+- Leia o resto do meetup-cookbook :yellow_heart: :heart: :smile:
+
 
   
