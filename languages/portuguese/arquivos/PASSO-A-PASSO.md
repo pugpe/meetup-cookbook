@@ -1,7 +1,7 @@
 # Passo a passo inicial
 > Aqui está descrito o fluxo principal para criação de um encontro do PUG-PE
 
-Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por onde começar relaxa e se liga nesse checklist :stuck_out_tongue_closed_eyes: :star:
+Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por onde começar, relaxa e se liga nesse checklist :stuck_out_tongue_closed_eyes: :star:
 
 
 ## Antes de organizar o evento
@@ -13,9 +13,13 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
   Caso você queira companhia nessa jornada, esse ponto pode ser levado em consideração.
   
-  Se você estuda ainda e está em alguma Universidade/Faculdade/Escola e queira organizar o encontro onde você estuda, recomendamos que você converse com seus amiguinhos. Provavelmente, terá alguém querendo te ajudar em alguma coisa :smile:  Se infelizmente isso não ocorrer, relaxa temos pessoas muito legais e dispostas na organização do PUG-PE que podem te ajudar nessa empreitada nova. 
+  Se você é estudante em alguma Universidade/Faculdade/Escola e está querendo organizar o encontro onde você estuda, recomendamos que você converse com seus amiguinhos. Provavelmente, terá alguém querendo te ajudar em alguma coisa :smile: 
   
-- [ ] **Ter disponibilidade (ou pessoas disponíveis) para organizar o evento: fazer divulgação, gerenciar submissão de palestras, montar grade de horario, organizar o evento no dia, resolver certificados**
+  Se infelizmente isso não ocorrer, relaxa temos pessoas muito legais e dispostas na organização do PUG-PE que podem te ajudar nessa empreitada nova. 
+  
+- [ ] **Ter disponibilidade (ou pessoas disponíveis) para organizar o evento**
+  
+  Fazer divulgação, gerenciar submissão de palestras, montar grade de horario, organizar o evento no dia, resolver certificados, isso demanda tempo e não deve ser subestimado.
   
   Esse ponto está fortemente relacionado com o anterior, se você acha que sua disponibilidade não é suficiente para fazer tudo isso, recomendamos que você tenha mais alguém com você (mais de duas pessoas é desnecessário). 
   
@@ -28,7 +32,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
 
 - [ ] **Quero fazer um evento mais introdutorio ou avançado?**
   
-  Esse ponto é importante, pois a partir dele você consegue definir qual o público alvo. E apartir do público alvo, você define qual seria o melhor lugar para ocorrer o evento e em qual dia/horário. 
+  Esse ponto é importante, pois a partir dele você consegue definir qual o público alvo. E a partir do público alvo, você define qual seria o melhor lugar para ocorrer o evento e em qual dia/horário. 
 
 - [ ] **Quais atividades quero que ocorram no encontro?**
   
@@ -50,7 +54,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
 - [ ] **O local cabe mais de 30 pessoas?**
   
-  Ou conseguirá comportar o público que você está esperando? Pense bem nisso, a galera não tem frescura senta ate no chão, mas vamos pensar na segurança de todos :)
+  Ou conseguirá comportar o público que você está esperando? Pense bem nisso, a galera não tem frescura senta ate no chão, mas vamos pensar na segurança de todos :smile:
 
 - [ ] **O local permite entrada de pessoas de fora?**
   
@@ -62,7 +66,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
   Caso esse local tenha muitas disponibilidade de horário, siga para o tópico abaixo.
 
-- [ ] **Perguntei ao grupo do PUG-PE qual o melhor dia para eles?**
+- [ ] **Perguntei no grupo do PUG-PE qual o melhor dia para eles?**
   
   Temos muitas pessoas no grupo do PUG-PE, os membros mais ativos podem ajudar você a escolher o mehor dia e horário para ocorrer o evento. Recomendamos à você abrir uma enquete no Telegram com as opções de dia/horário, o evento é para a comunidade, sendo assim, vamos fazer a comunidade participar das decições também :smile: 
   
@@ -85,6 +89,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
 
 - Entre em contato com os responsáveis pelas redes sociais/email oficial/adm do grupo... para te ajudar na divulgação do evento.
 - Faça divulgação fora dos grupos oficiais/perfis oficiais do PUG-PE, tem muita gente por ai que programa em Python ou quer começar e não sabe da existência do PUG-PE.
+- Seja criativo, faça artes legais para divulgar, pense em frases chamativas, tudo isso ajuda na divulgação ~a espalhar a palavra~ do PUG.
 - Não deixe para organizar o evento encima da hora, tenha pelo menos um período de 1 mês para fazer tudo.
 - Converse com a comunidade :heart:
 - Leia o resto do meetup-cookbook :yellow_heart: :heart: :smile:
