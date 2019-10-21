@@ -12,7 +12,7 @@ Este projeto e todos que estão participando dele estão sujeitos ao [código de
 
 ### Sugerindo melhorias
 
-Antes de sugerir, por favor veja se a mesma ideia já não foi [sugerida antes](https://github.com/pugpe/meetup-cookbook/issues) (algumas vezes você verá que não precisa criar uma nova sugestão).
+Antes de sugerir, por favor veja se a mesma ideia já não foi [sugerida antes](https://github.com/pugpe/meetup-cookbook/issues). Caso a sua ideia tenha sido sugerida, não se esqueça de interagir na issue e ajudar a evoluir a ideia.
 
 #### Como submeter uma boa sugestão de melhoria?
 
@@ -30,7 +30,7 @@ Após dá uma olhada nas melhoridas [já sugeridas](https://github.com/pugpe/mee
 
 #### Criando *Pull Requests*
 
-Com os [*Pull Requests*](https://help.github.com/en/articles/about-pull-requests) (ou PR) você poderá integrar o que você desenvolveu com o nosso projeto. 
+Com os [*Pull Requests*](https://help.github.com/en/articles/about-pull-requests) (ou PR) você poderá integrar o que você desenvolveu com o nosso projeto.
 
 Para isso, por favor siga os passos a seguir para que sua contribuição seja avaliada:
 
