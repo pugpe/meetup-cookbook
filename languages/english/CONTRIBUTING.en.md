@@ -1,57 +1,50 @@
-# How to contribute to PUG-PE Meetup Cookbook?
+# Como contribuir para o Meetup Cookbook do PUG-PE?
 
-First, thank you so much for thinking about contributing! :smile::smile:
+Primeiramente, muito obrigado por estar pensando em contribuir! :smile::smile:
 
-This document presents a set of guidelines for contributing to this project. These guidelines aren't exactly rules, but following them helps everyone to be on the same page. Feel free to submit a *pull request* for this document. In general, use common sense.
+Neste documento é apresentado um conjunto de diretrizes para contribuição a este projeto. Essas diretrizes não são exatamente regras, mas seguí-las ajuda todo mundo a estar na mesma página. Se quiser submeter um *pull request* para este documento, sinta-se à vontade. No geral, use o bom senso.
 
-## Code of conduct
+## Código de Conduta
 
-This project and everyone participating in it are subjected to the [code of conduct](https://python.org.br/cdc/). By participating you are expected to be following it as well.
+Este projeto e todos participando nele estão sujeitos ao [código de conduta](https://python.org.br/cdc/). Ao participar, é esperado que você também o siga.
 
-## How can I contribute?
+## Como posso contribuir?
 
-### Suggesting improvements
+### Sugerindo melhorias
 
-Before suggesting, please make sure the same idea has not been [suggested before](https://github.com/pugpe/meetup-cookbook/issues). If your idea has been suggested, be sure to interact with the issue and help evolve the idea.
+Antes de sugerir, por favor veja se a mesma ideia já não foi sugerida antes (algumas vezes você verá que não precisa criar uma nova sugestão).
 
-#### How to submit a good improvement suggestion?
+#### Como submeter uma boa sugestão de melhoria?
 
-Improvements are presented as [*Github Issues*](https://guides.github.com/features/issues/).
+As melhorias tomam forma de [*Github Issues*](https://guides.github.com/features/issues/).
 
-- **Use a clear and descriptive title**;
-- **Provide a detailed description of the suggestion**;
-- **Explain why this improvement is useful**;
-- **Describe a *before and after*, if applicable**;
-- **Provide examples, if applicable**.
+- **Use um título claro e descritivo**;
+- **Providencie uma descrição detalhada da sugestão**;
+- **Explique o porquê desta melhoria ser útil**;
+- **Descreva um *antes e depois*, se aplicável**;
+- **Providencie exemplos, se aplicável**.
 
-### Implementing Improvements
+### Criando *Pull Requests*
 
-After taking a look at the improvements [already suggested](https://github.com/pugpe/meetup-cookbook/issues), did you find that you could implement some of them? You are in the right section! 
+Por favor siga os passos a seguir para que sua contribuição seja avaliada:
 
-### Creating *Pull Requests*
+1. Siga as instruções do modelo de *pull requests* ao criar um;
+2. Siga os [*guias de estilo*](#guias-de-estilo)
 
-With the [*Pull Requests*](https://help.github.com/en/articles/about-pull-requests)(or PR) you can integrate what you have developed with our project.
+Os pré-requisitos acima serem seguidos não significa que os mantenedores do projeto não possam pedir adições ao *pull request*, esclarecimento de informações, mudanças em alguns trechos, etc., antes da contribuição ser aceita.
 
-For this, please follow the steps below to evaluate your contribution:
+## Guias de estilo
 
-1. Follow the instructions for the *pull requests* template when creating it;
-2. Follow the [*style guides*](#guias-de-estilo);
+### Mensagens de *commit* do git
 
+- Use a segunda pessoa do Imperativo Afirmativo ("Adiciona guias de contribuição..." e não "Adicionando guias de contribuição...");
+- O título (primeira linha) deve conter 50 caracteres ou menos
+    - Escreva mensagem de *commit* objetiva sobre o que aquele commit muda no projeto.
+    - Tente responder "O que este *commit* faz?";
+- Caso haja descrição do *commit*, deixe a segunda linha em branco;
+- Adicione uma descrição do commit da terceira linha em diante, com 72 caracteres ou menos por linha;
+    - Ao se perguntar se é necessária uma descrição para o *commit*, se pergunte se alguém quiser investigar o "porquê desta mudança ter sido introduzida", será possível apenas pelo título e conteúdo do *commit*;
+    - Adicione uma descrição que responda a pergunta "Por que este *commit* é necessário?";
+- Referencie *issues* ou *pull requests* no fim da mensagem;
 
-Even if the above prerequisites are followed, this does not mean that project maintainers cannot request additions to the *pull request*, clarification of information, changes to some sections, etc., before the contribution is accepted.
-
-## Style guides
-
-### *commit* messages of git
-
-- Use Affirmative Imperative on second person ("Add Contribution Guides ..." not "Adding Contribution Guides ...")
-- Title (first line) must be 50 characters or less
-    - Write objective *commit* message about what that commit changes in the project.
-    - Try to answer "What does this *commit* do?";
-- If *commit* is described, leave the second line blank;
-- Add a description to the commit beginning from the third line, with 72 characters or less per line;
-    - When asking yourself if a description is required for *commit*, ask yourself if anyone wants to investigate "why this change has been introduced" will only be possible by the title and content of *commit*;
-    - Add a description that answers the question "Why is this *commit* necessary?";
-- Refer to *issues* or *pull requests* at the end of the message;
-
-Thanks! :heart: :heart: :heart:
+Obrigado! :heart: :heart: :heart:
