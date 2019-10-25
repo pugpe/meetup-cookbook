@@ -9,7 +9,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
 
 
 - [ ] **Ter vontade de organizar um encontro**
-- [ ] **Ter amiguinhos com vontade de ajudar você nessa jornada (não precisamos fazer tudo sozinhos, não é mesmo?)**
+- [ ] **Ter colegas com vontade de ajudar você nessa jornada (não precisamos fazer tudo sozinhos, não é mesmo?)**
   
   Caso você queira companhia nessa jornada, esse ponto pode ser levado em consideração.
   
