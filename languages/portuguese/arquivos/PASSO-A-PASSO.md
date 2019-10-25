@@ -15,7 +15,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
   Se você é estudante em alguma Universidade/Faculdade/Escola e está querendo organizar o encontro onde você estuda, recomendamos que você converse com seus colegas. Provavelmente, terá alguém disposto a te ajudar em alguma coisa :smile: 
   
-  Se, infelizmente, isso não ocorrer relaxa. Temos pessoas muito legais e dispostas na organização do PUG-PE que podem te ajudar nessa nova empreitada. 
+  Se, infelizmente, isso não ocorrer, relaxa. Temos pessoas muito legais e dispostas na organização do PUG-PE que podem te ajudar nessa nova empreitada. 
   
 - [ ] **Ter disponibilidade (ou pessoas disponíveis) para organizar o evento**
   
