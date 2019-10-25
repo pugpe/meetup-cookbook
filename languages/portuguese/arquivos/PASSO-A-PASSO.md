@@ -60,7 +60,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
   Alguns locais pedem que seja realizado o controle de entrada e saída. Caso isso ocorra com você, lembre-se que isso não é um impedimento, utilize algum sistema de inscrição para efetuar o controle (Exemplo o [Sympla](https://www.sympla.com.br/)) de acesso.
   
-  Sabendo da elevada taxa de ausência no evento quando é preciso realizar inscrições e quando elas são gratuítas. Segue umas dicas de como sobreviver a isso: 
+  Sabendo da elevada taxa de ausência no evento quando é preciso realizar inscrições e quando elas são gratuítas. Segue umas dicas de como contornar isso: 
   
   - Forneça mais ingressos do que a capacidade do local;
   - Envie um email de confirmação para os inscritos no evento alguns dias antes do evento;
