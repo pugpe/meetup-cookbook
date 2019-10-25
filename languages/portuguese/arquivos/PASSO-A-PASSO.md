@@ -54,7 +54,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
 - [ ] **O local cabe mais de 30 pessoas?**
   
-  Ou conseguirá comportar o público que você está esperando? Pense bem nisso, a galera não tem frescura senta ate no chão, mas vamos pensar na segurança de todos :smile:
+  Ou conseguirá comportar o público que você está esperando? Pense bem nisso, a galera não tem besteira senta ate no chão, mas vamos pensar na segurança e conforto de todos :smile:
 
 - [ ] **O local permite entrada de pessoas de fora?**
   
