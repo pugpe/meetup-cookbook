@@ -1,5 +1,4 @@
 # Meetup Cookbook
-![GitHub stars](https://img.shields.io/github/stars/pugpe/meetup-cookbook?style=social)
 [![\[Telegram\] PUG-PE](https://img.shields.io/badge/telegram-pugpe-blue.svg?style=flat-square)](https://t.me/pugpe)
 ![Twitter Follow](https://img.shields.io/twitter/follow/pugpe?style=social)
 ![GitHub](https://img.shields.io/github/license/pugpe/meetup-cookbook)
