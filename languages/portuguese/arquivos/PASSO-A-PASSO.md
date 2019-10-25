@@ -19,7 +19,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
 - [ ] **Ter disponibilidade (ou pessoas disponíveis) para organizar o evento**
   
-  Fazer divulgação, gerenciar submissão de palestras, montar grade de horario, organizar o evento no dia, resolver certificados, isso demanda tempo e não deve ser subestimado.
+  Fazer divulgação, gerenciar submissão de palestras, montar grade de horario, organizar o evento no dia, resolver certificados (não é obrigatório oferecer certificado), isso demanda tempo e não deve ser subestimado.
   
   Esse ponto está fortemente relacionado com o anterior, se você acha que sua disponibilidade não é suficiente para fazer tudo isso, recomendamos que você tenha mais alguém com você (mais de duas pessoas pode ser desnecessário). 
   
@@ -30,17 +30,17 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
 *Todos os pontos devem ser preenchidos*
 
 
-- [ ] **Quero fazer um evento mais introdutorio ou avançado?**
+- [ ] **Irei conseguir fazer um evento diverso?**
   
-  Esse ponto é importante, pois a partir dele você consegue definir qual o público alvo. E a partir do público alvo, você define qual seria o melhor lugar para ocorrer o evento e em qual dia/horário. 
-
+  Um evento diverso é um evento que abrange tanto o público iniciante quanto o avançado. Pensar sobre esse ponto é importante, pois a partir dele você conseguirá definir quais meios você utilizará para chamar o público e também se preparará melhor no momento de avaliar as palestras submetidas. Além disso, poderá escolher um dia/horário que seja acessível ao público.
+  
 - [ ] **Quais atividades quero que ocorram no encontro?**
   
-  Em geral lembramos mais de palestras, mas nem tudo gira em torno de palestras. Que tal *lightning talks*, *tutorias*, *openspaces*, *pybar*, *dominó* .... ?
+  Em geral lembramos mais de palestras, mas nem tudo gira em torno de palestras. Que tal *lightning talks*, *tutorias*, *open spaces*, *pybar*, *dominó* .... ?
 
 - [ ] **Consigo chegar no meu público alvo com as divulgações que irei fazer?**
 
-  As vezes queremos atingir um público, mas não conseguimos chegar neles. Você conseguirá passar essa barreira? Você tem contatinhos para te ajudar nessa divulgação?
+  Quando fala-se `público alvo` lembre-se que são as pessoas que convivem/utilizam o local que foi escolhido. Sendo assim, é preciso analisar as melhores formas de atrair esse público. Por exemplo, os meios que estão sendo levantados para fazer divulgação, o horário que será realizado as postagens, o formato das postagens. Tudo isso deve ser levado em consideração, tente pensar em uma forma de atingir esse público, seja empático. 
 
 
 --- 
