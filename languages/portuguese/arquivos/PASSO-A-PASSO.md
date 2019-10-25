@@ -21,7 +21,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
   Fazer divulgação, gerenciar submissão de palestras, montar grade de horario, organizar o evento no dia, resolver certificados, isso demanda tempo e não deve ser subestimado.
   
-  Esse ponto está fortemente relacionado com o anterior, se você acha que sua disponibilidade não é suficiente para fazer tudo isso, recomendamos que você tenha mais alguém com você (mais de duas pessoas é desnecessário). 
+  Esse ponto está fortemente relacionado com o anterior, se você acha que sua disponibilidade não é suficiente para fazer tudo isso, recomendamos que você tenha mais alguém com você (mais de duas pessoas pode ser desnecessário). 
   
 
 ---
