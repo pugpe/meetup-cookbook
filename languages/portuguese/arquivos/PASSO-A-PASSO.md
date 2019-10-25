@@ -70,7 +70,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   
 - [ ] **O local tem disponibilidade para receber o evento?**
   
-  No caso, a disponibilidade desse local está compatível com o período do mês e até mesmo o mês que o evento deverá ocorrer? Verifique isso antes, **não deixe para verificar a disponibilidade em cima da hora**, principalmente porque tentamos organizar encontros mensais.
+  No caso, a disponibilidade desse local está compatível com o período do mês e até mesmo o mês que o evento deverá ocorrer? Verifique isso antes. **Não deixe para verificar a disponibilidade em cima da hora**, principalmente porque tentamos organizar encontros mensais.
   
   Caso esse local tenha muitos horários disponíveis, siga para o tópico abaixo.
 
