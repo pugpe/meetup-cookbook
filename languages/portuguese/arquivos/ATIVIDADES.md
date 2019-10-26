@@ -13,6 +13,8 @@ Algumas informações são necessárias para os interessados:
 - Data e local do evento
 - Breve descrição sobre como será o evento
 - O que eles estão submetendo (ex.: tutorial, palestra, etc.)
+    - Duração das atividades
+    - Principais áreas de conhecimento que são aceitas
 - Instruções de como deve ser feita a submissão
 - Breve explicação do processo de avaliação e seleção
 - Declaração sobre o Código de Conduta
