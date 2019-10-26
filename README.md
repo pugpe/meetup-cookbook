@@ -11,7 +11,7 @@
  1. [Passo a passo inicial](languages/portuguese/arquivos/PASSO-A-PASSO.md)
  2. [Definir dia](languages/portuguese/arquivos/DEFINIR-DIA.md)
  3. [Criar evento no site do PUG-PE](languages/portuguese/arquivos/EVENTOS-PUG.md)
- 4. [Dicas de divulgação](languages/portuguese/arquivos/DIVULGACAO.md)
+ 4. [Divulgação](languages/portuguese/arquivos/DIVULGACAO.md)
  5. [Organização no dia](languages/portuguese/arquivos/ORGANIZACAO-DIA.md)
 
 ## Contribuição
