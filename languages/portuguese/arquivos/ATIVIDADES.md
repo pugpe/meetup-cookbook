@@ -1,5 +1,5 @@
 # Atividades
-
+> Aqui conterá uma descrição sobre submissão de atividades, avaliação de atividades e confirmação de atividades. Desde como fazer até onde fazer o gerenciamento dessas etapas.
 ## Submissão de atividades
 
 *Caso o evento for oferecer atividades que pessoas possam submeter (por exemplo: palestras, tutoriais, etc.)*
