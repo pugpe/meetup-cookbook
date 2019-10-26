@@ -21,16 +21,18 @@ Geralmente, tentamos alternar entre um dia durante a semana e um dia de final de
 
 ### Definir agenda
 Tendo escolhido o dia do evento, agora é hora de  definir mais ~~um bocado~~ algumas datas, como:
-  - Dia da abertura de submissão de palestras.
+  - Dia da abertura de submissão de palestras. (opcional)
     - É importante decidir com antecedência e divulgar a data de abertura de submissão, assim, as pessoas podem preparar suas apresentações e submetê-las.
-  - Dia do encerramento de submissão de palestras.
+  - Dia do encerramento de submissão de palestras. (opcional)
     - Este ponto é importante para que os organizadores do evento possam confirmar a presença dos palestrantes, contatar outras pessoas, caso algum palestrante não possa comparecer ou,se for o caso, poder seguir pro próximo ponto.
-  - Período de votação de palestras.
+  - Período de votação de palestras. (opcional)
     - Depois de encerradas as submissões de palestras, caso haja mais submissões do que tempo disponível para todas, recomendamos que seja feita uma votação para escolha das palestras do evento.
-  - Dia para confirmar a disponibilidade dos palestrantes aprovados.
+  - Dia para confirmar a disponibilidade dos palestrantes aprovados. (opcional)
     - Como dito anteriormente, é preciso que os palestrantes das propostas aceitas sejam contatados e confirmem sua presença no evento. Caso não alguém não possa comparecer, o palestrante sucessor é convidado a trazer sua palestra ao evento.
   - Dia para abrir as inscrições (caso necessário)
-    - Caso o local escolhido para o evento peça controle de acesso dos participantes ou até mesmo para gerar certificados, você provavelmente vai querer fazer a inscrições para o encontro. Dessa forma, é importante que você defina essa data com antecedência e divulgue, para que as pessoas possam se preparar para escrever e não perder a inscrição por falta de aviso.
+    - Caso o local escolhido para o evento peça controle de acesso dos participantes ou até mesmo para gerar certificados, você provavelmente vai querer fazer a inscrições para o encontro. Dessa forma, é importante que você defina essa data com antecedência e divulgue, para que as pessoas possam se preparar para se inscrever e não perder a inscrição por falta de aviso.
+  - Dia para abrir lista de espera
+    - Caso o local escolhido tenha limitação de vagas e as inscrições esgotem, recomendamos fazer uma lista de espera, muitas vezes alguém que se inscreveu pode acabar não conseguindo comparecer ao evento e essa vaga pode ser preenchida por alguém que comparecerá!
   - Dia para resolver Coffee Break
     - Se o seu evento tiver um tempo destinado a um coffee break (Gostamos! :heart_eyes:), recomendamos que você defina um tempo para resolver isso também, afinal de contas, correr atrás de patrocínio e conseguir a comida quase nunca é uma tarefa simples.
     
