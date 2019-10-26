@@ -6,7 +6,7 @@
 
 ### Descrição
 
-A descrição da etapa de submissão pode fazer muita diferença, pois é o que pode atrair ou afastar pessoas interessadas. A descrição deve ser objetiva e clara, para que as pessoas não fiquem perdidas no processo.
+A descrição da etapa de submissão pode fazer muita diferença, pois é o que pode atrair ou afastar pessoas interessadas. Por isso, faça uma descrição objetiva e clara, para que as pessoas não fiquem perdidas no processo.
 
 Algumas informações são necessárias para os interessados:
 
