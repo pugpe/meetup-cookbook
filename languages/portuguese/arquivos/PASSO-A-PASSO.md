@@ -88,7 +88,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
     - [ ] Dia para resolver o coffebreak
     - [ ] Dia do evento o/
 
-  Recomendamos você dar uma passadinha na nossa seção de [Escolha de data e horário](DIVULGAÇÃO.md), para entender cada passo e vê-los com mais detalhes! :blush:
+  Recomendamos você dar uma passadinha na nossa seção de [Escolha de data e horário](DEFINIR-DIA.md), para entender cada passo e vê-los com mais detalhes! :blush:
 
 ----
 
