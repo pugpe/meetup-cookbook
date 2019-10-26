@@ -10,14 +10,14 @@
 ## Índice
  1. [Passo a passo inicial](languages/portuguese/arquivos/PASSO-A-PASSO.md)
  2. [Definir dia](languages/portuguese/arquivos/DEFINIR-DIA.md)
- 3. [Criar evento no site do PUG-PE](languages/portuguese/arquivos/EVENTOS-PUG.md)
+ 3. Organização online
   
-    1. Submissão de atividades
-    2. Avaliação de atividades
-    3. Inscrição no evento
-    4. Lista de espera
+    1. [Submissão de atividades](languages/portuguese/arquivos/ATIVIDADES.md#submiss%C3%A3o-de-atividades)
+    2. [Avaliação de atividades](languages/portuguese/arquivos/ATIVIDADES.md#avaliação-de-atividades)
+    3. [Inscrição no evento](languages/portuguese/arquivos/EVENTO.md#inscrição-no-evento)
+    4. [Lista de espera](languages/portuguese/arquivos/EVENTO.md#lista-de-espera)
     5. [Divulgação](languages/portuguese/arquivos/DIVULGACAO.md)
-    6. Emissão de certificado
+    6. [Emissão de certificado](languages/portuguese/arquivos/EVENTO.md#emissão-de-certificado)
  
  4. [Organização no dia](languages/portuguese/arquivos/ORGANIZACAO-DIA.md)
 
