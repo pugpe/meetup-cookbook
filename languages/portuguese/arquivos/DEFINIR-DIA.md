@@ -15,7 +15,7 @@ Para definir o período do mês em que o evento ocorrerá, é preciso estar aten
 ---
 
 ### Escolher o dia da semana e horário do evento
-Geralmente, tentamos alternar entre um dia durante a semana e um dia de final de semana. Para que as pessoas possam frequentar o PUG,independente de seus horários de escola, faculdade ou trabalho. Sendo assim, em dias de semana, geralmente, os eventos são realizados à noite, depois do horário comercial, a fim de que quem trabalhe ou estude durante o dia possa participar. Já aos finais de semana, os horários são mais livres e ocorrem geralmente na manhã ou tarde do sábado, variando de acordo com a disponibilidade dos participantes.
+Geralmente, tentamos alternar entre um dia durante a semana e um dia de final de semana. Para que as pessoas possam frequentar o PUG, independente de seus horários de escola, faculdade ou trabalho. Sendo assim, em dias de semana, geralmente, os eventos são realizados à noite, depois do horário comercial, a fim de que quem trabalhe ou estude durante o dia possa participar. Já aos finais de semana, os horários são mais livres e ocorrem geralmente na manhã ou tarde do sábado, variando de acordo com a disponibilidade dos participantes.
 
 ---
 
