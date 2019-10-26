@@ -39,8 +39,8 @@ Tendo escolhido o dia do evento, agora é hora de  definir mais ~~um bocado~~ al
 
 _Algumas dicas gerais_
 
-  * Como já falamos, sua vida vai ser mais fácil se tiver com quem dividir tantas atividades, então, não tenha medo de pedir ajuda.
-  * Algumas dessas atividades podem levar mais do que um dia para serem concluídas, então é importante que você tenha um bom período para poder organizar o evento. Se não, você provavelmente vai ~~enlouquecer~~ se desgastar bastante. Fazer as coisas com calma ajuda!
-  * Infelizmente, nem todos irão ficar felizes com o horário ou data definidos e tá tudo bem. Não tem porque se estressar com isso, provavelmente, em um encontro futuro, essas pessoas terão a chance de comparecer
+  - Como já falamos, sua vida vai ser mais fácil se tiver com quem dividir tantas atividades, então, não tenha medo de pedir ajuda.
+  - Algumas dessas atividades podem levar mais do que um dia para serem concluídas, então é importante que você tenha um bom período para poder organizar o evento. Se não, você provavelmente vai ~~enlouquecer~~ se desgastar bastante. Fazer as coisas com calma ajuda!
+  - Infelizmente, nem todos irão ficar felizes com o horário ou data definidos e tá tudo bem. Não tem porque se estressar com isso, provavelmente, em um encontro futuro, essas pessoas terão a chance de comparecer
   
   
