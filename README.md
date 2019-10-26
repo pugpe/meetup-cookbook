@@ -11,8 +11,15 @@
  1. [Passo a passo inicial](languages/portuguese/arquivos/PASSO-A-PASSO.md)
  2. [Definir dia](languages/portuguese/arquivos/DEFINIR-DIA.md)
  3. [Criar evento no site do PUG-PE](languages/portuguese/arquivos/EVENTOS-PUG.md)
- 4. [Dicas de divulgação](languages/portuguese/arquivos/DIVULGACAO.md)
- 5. [Organização no dia](languages/portuguese/arquivos/ORGANIZACAO-DIA.md)
+  
+    1. Submissão de atividades
+    2. Avaliação de atividades
+    3. Inscrição no evento
+    4. Lista de espera
+    5. [Divulgação](languages/portuguese/arquivos/DIVULGACAO.md)
+    6. Emissão de certificado
+ 
+ 4. [Organização no dia](languages/portuguese/arquivos/ORGANIZACAO-DIA.md)
 
 ## Contribuição
 
