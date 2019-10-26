@@ -79,7 +79,6 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
   Temos muitas pessoas no grupo do PUG-PE, os membros mais ativos podem ajudar você a escolher o melhor dia e horário para a realização do evento. Recomendamos fazer uma enquete com as opções de dia/horário, o evento é para a comunidade, sendo assim, vamos fazer a comunidade participar das decisões também :smile: 
   
 - [ ] **Tenho minhas data bem definidas?**
-
   Agora que você tem a data do evento bem definida (sugerimos que defina a data com antecedência, porque você vai precisar), é hora de definir algumas datas importantes:
     - [ ] Dia de abertura das submissões de palestras
     - [ ] Dia de encerramento das submissões de palestras
@@ -89,6 +88,7 @@ Se você está aqui e quer organizar um encontro do PUG-PE, mas não sabe por on
     - [ ] Dia para resolver o coffebreak
     - [ ] Dia do evento o/
 
+  Recomendamos você dar uma passadinha na nossa seção de [Escolha de data e horário](DIVULGAÇÃO.md), para entender cada passo e vê-los com mais detalhes! :blush:
 
 ----
 
