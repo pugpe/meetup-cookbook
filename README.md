@@ -14,10 +14,11 @@
   
     1. [Submissão de atividades](languages/portuguese/arquivos/ATIVIDADES.md#submissão-de-atividades)
     2. [Avaliação de atividades](languages/portuguese/arquivos/ATIVIDADES.md#avaliação-de-atividades)
-    3. [Inscrição no evento](languages/portuguese/arquivos/EVENTO.md#inscrição-no-evento)
-    4. [Lista de espera](languages/portuguese/arquivos/EVENTO.md#lista-de-espera)
-    5. [Divulgação](languages/portuguese/arquivos/DIVULGACAO.md)
-    6. [Emissão de certificado](languages/portuguese/arquivos/EVENTO.md#emissão-de-certificado)
+    3. [Confirmação de atividades](languages/portuguese/arquivos/ATIVIDADES.md#confirmação-de-atividades)
+    4. [Inscrição no evento](languages/portuguese/arquivos/EVENTO.md#inscrição-no-evento)
+    5. [Lista de espera](languages/portuguese/arquivos/EVENTO.md#lista-de-espera)
+    6. [Divulgação](languages/portuguese/arquivos/DIVULGACAO.md)
+    7. [Emissão de certificado](languages/portuguese/arquivos/EVENTO.md#emissão-de-certificado)
  
  4. [Organização no dia](languages/portuguese/arquivos/ORGANIZACAO-DIA.md)
 
