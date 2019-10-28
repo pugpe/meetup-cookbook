@@ -34,5 +34,5 @@ Mas o que você quer é dicas, certo? Utilizar, por exemplo, o Canva não é tã
 
 - Se for inserir imagens ao template, utilize imagens *png*. Normalmente, não possuem fundo e são perfeitas para fazer arte.
 - Preste atenção na resolução. Cada rede social possuí sua resolução favorita, se atente a isso.
-- Insira imagens que signifiquem muito. Por exemplo, logo da python, do telegram, de universidade, de twitter.
+- Insira imagens que signifiquem muito. Por exemplo, logo da Python, do Telegram, de universidade, de Twitter.
 - Insira data, local, links encurtados.
