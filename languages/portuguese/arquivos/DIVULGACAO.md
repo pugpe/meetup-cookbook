@@ -17,7 +17,7 @@ Como tentamos sair da nossa zona de conforto e atingir pessoas novas?
 A seguir, ofereceremos algumas dicas para lhe ajudar.
 
 1. Lista de email do local que sediará o evento;
-2. Compartilhar em newsletter de eventos na região (ex. [Manguezal](https://drive.google.com/file/d/1UH_BpLnl4Tj5uyU-nhRAhCvHrUp9v1u7/view?usp=sharing))
+2. Compartilhar em newsletter de eventos na região (ex. [Manguezal](https://comunidademanguezal.slack.com/))
 3. Compartilhar em grupos relacionados de Telegram, WhatsApp e outros
 4. Utilizar o Telegram/Twitter (caso você não tenha acesso, entre em contato com os adms)
 5. Lista de email de pessoas chaves de empresa, universidades e outras comunidades
