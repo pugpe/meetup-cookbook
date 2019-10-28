@@ -33,6 +33,6 @@ Após ter definido os locais onde seriam realizadas as divulgações, está na h
 Mas o que você quer é dicas, certo? Utilizar, por exemplo, o Canva não é tão difícil. A dificuldade é como fazer o contéudo contido nele. Vamos lá!!
 
 - Se for inserir imagens ao template, utilize imagens *png*. Normalmente, não possuem fundo e são perfeitas para fazer arte.
-- Preste atenção na resolução. Cada rede social possuí sua resolução favorite, se atente a isso.
+- Preste atenção na resolução. Cada rede social possuí sua resolução favorita, se atente a isso.
 - Insira imagens que signifiquem muito. Por exemplo, logo da python, do telegram, de universidade, de twitter.
 - Insira data, local, links encurtados.
