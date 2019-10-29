@@ -10,7 +10,7 @@ Divulgação acaba sendo deixada por último na *maioria* das vezes, mas ela é 
 
 ## Onde fazer divulgação
 
-Como foi falado nos tópicos anteriores é preciso definir um local. Esses locais usualmente são universidades/empresas e queremos que as pessoas que convivem nesses locais vá para o encontro do PUG que ocorrerá. Mas isso, na maioria das vezes, não é o que ocorre. E por que isso não ocorre? Porque a divulgação ficou restrita aos locais usuais utilizados, acomodou-se, e não atingiu novas pessoas. 
+Como foi falado nos tópicos anteriores é preciso definir um local. Esses locais usualmente são universidades/empresas e queremos que as pessoas que convivem nesses locais vão para o encontro do PUG que ocorrerá. Mas isso, na maioria das vezes, não é o que ocorre. E por que isso não ocorre? Porque a divulgação ficou restrita aos locais usuais utilizados, acomodou-se, e não atingiu novas pessoas. 
 
 
 Como tentamos sair da nossa zona de conforto e atingir pessoas novas?
