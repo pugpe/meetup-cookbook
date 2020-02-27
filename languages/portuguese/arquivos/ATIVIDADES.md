@@ -8,6 +8,8 @@
 
 A descrição da etapa de submissão pode fazer muita diferença, pois é o que pode atrair ou afastar pessoas interessadas. Por isso, faça uma descrição objetiva e clara, para que as pessoas não fiquem perdidas no processo.
 
+Caso você não tenha certeza sobre a clareza do texto, não hesite em compartilhar com outras pessoas para receber feedbacks.
+
 Algumas informações são necessárias para os interessados:
 
 - Data e local do evento
