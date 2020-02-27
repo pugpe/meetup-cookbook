@@ -31,28 +31,10 @@ Algumas plataformas oferecem funcionalidades que facilitam bastante a vida de qu
 Um breve cardápio de plataformas conhecidas:
 
 #### [Google Forms](https://docs.google.com/forms)
-- Submissão separada da votação (caso tenha votação)
-- Sem votação pública:
-    - Submissão anônima
-- Com votação pública:
-    - Submissão e votação separadas\*
-    - Submissão anônima
-    - Votação com escolha única, múltipla escolha, etc.
-    - Voto em escala, seleção, etc. 
+Utilizando o Google Forms, é possível separar a submissão das atividades da votação criando um formulário pra cada em datas diferentes. Caso deseje anonimizar a votação, um organizador deve omitir o nome do autor das submissões no formulário de votação. Também é possível criar votação com escolha única, múltipla escolha, escala de valores, numérica, etc.
 
 #### [Speakerfight](https://speakerfight.com/events/create/)
-- Open source e brasileira
-- Sem votação pública:
-    - Submissão identificada ou anônima
-    - Prazo de submissão
-- Com votação pública:
-    - Submissão e votação ao mesmo tempo
-    - Submissão (e votação) identificada ou anônima
-    - Votação com múltipla escolha
-    - Voto na escala de 1 a 5 (carinha com raiva até carinha rindo)
-    - Prazo de submissão e votação
-
-\* Um organizador deve preencher um novo formulário com o conteúdo das submissões e abrí-lo para que seja feita a votação com as atividades submetidas. É possível anonimizar a votação omitindo o nome do autor da atividade neste passo.
+Open Source e brasileira, o Speakerfight é uma plataforma que oferece a submissão de atividades e votação ao mesmo tempo. É possível definir submissão e votação anônima (submissão anônima faz com que os organizadores não possam ver o autor da submissão até o fim do prazo definido). As votações são na escala de 1 a 5 e de múltipla escolha.
 
 ## Avaliação de atividades
 
