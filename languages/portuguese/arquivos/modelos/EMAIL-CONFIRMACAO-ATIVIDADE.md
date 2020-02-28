@@ -4,7 +4,7 @@ Tudo bem?
 
 Sua atividade "[TÍTULO DA ATIVIDADE]" foi aprovada para o [N-ÉSIMO]° PUG-PE, que ocorrerá em [LOCAL DO EVENTO], [DIA DO EVENTO] às [HORA DO EVENTO].
 
-Queria confirmar a sua participação.
+Estou passando para confirmar a sua participação.
 
 Pode responder esse email mesmo :)
 
