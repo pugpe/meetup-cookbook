@@ -22,7 +22,7 @@ Algumas informações são necessárias para os interessados:
 - Declaração sobre o Código de Conduta
 - Divulgação dos canais de comunicação do grupo
 
-Aqui temos um [modelo de descrição de submissão de palestras](languages/portuguese/arquivos/modelos/DESCRICAO-SUBMISSAO-PALESTRAS.md) que pode ser utilizado. E também um [modelo de descrição de votação de palestras](languages/portuguese/arquivos/modelos/DESCRICAO-VOTACAO-PALESTRAS.md), caso seja necessário.
+Aqui temos um [modelo de descrição de submissão de palestras](modelos/DESCRICAO-SUBMISSAO-PALESTRAS.md) que pode ser utilizado. E também um [modelo de descrição de votação de palestras](modelos/DESCRICAO-VOTACAO-PALESTRAS.md), caso seja necessário.
 
 ### Plataforma
 
@@ -55,7 +55,7 @@ Ao finalizar a avaliação e seleção, os autores devem ser contatados para ser
 
 > Não cancele com possíveis colaboradores até que você tenha a grade totalmente confirmada. E não esqueça de montar um cronograma bem definido, para ter todas essas datas de confirmação estejam claras.
 
-Isto é feito por email, através do email oficial do PUG-PE. Providenciamos um [modelo de confirmação de atividade](languages/portuguese/arquivos/modelos/EMAIL-CONFIRMACAO-ATIVIDADE.md) :smile:
+Isto é feito por email, através do email oficial do PUG-PE. Providenciamos um [modelo de confirmação de atividade](modelos/EMAIL-CONFIRMACAO-ATIVIDADE.md) :smile:
 
 Após todas as confirmações, um excelente trabalho foi feito e a programação está oficialmente fechada!
 
