@@ -45,7 +45,7 @@ Caso não seja feita votação pública, é interessante considerar algumas cois
 - O assunto da atividade é relacionado a Python? A comunidade Python é aberta a outras tecnologias, mas pode ser dada preferência a conteúdo relacionado à linguagem se quiser
 
 
-Se for feita votação pública, os interessados no evento que irão decidir o que querem ver :relaxed:. Mas se quiser, também podem ser utilizados alguns dos critérios anteriores para selecionar. Desde que isso esteja bem claro na descrição da submissão. É bom manter o nível de interferência ao mínimo quando houver votação pública.
+Se for feita votação pública, os interessados no evento que irão decidir o que querem ver :relaxed:. Mas se quiser, também podem ser utilizados alguns dos critérios anteriores para selecionar. Desde que isso esteja bem claro na [descrição de submissão](modelos/DESCRICAO-SUBMISSAO-PALESTRAS.md). É bom manter o nível de interferência ao mínimo quando houver votação pública.
 
 Ah! E caso não tenha atividades suficientes para completar a programação, ignora tudo isso e coloca todas elas no evento :laughing:
 
