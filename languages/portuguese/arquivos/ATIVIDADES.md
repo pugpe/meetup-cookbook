@@ -53,6 +53,8 @@ Ah! E caso não tenha atividades suficientes para completar a programação, ign
 
 Ao finalizar a avaliação e seleção, os autores devem ser contatados para serem avisados e para confirmação. Caso não haja confirmação (um bom prazo seria 2-3 dias), o próximo colocado deve ser contatado e o não-confirmado deve ser avisado disto.
 
+> Não cancele com possíveis colaboradores até que você tenha a grade totalmente confirmada. E não esqueça de montar um cronograma bem definido, para ter todas essas datas de confirmação estejam claras.
+
 Isto é feito por email, através do email oficial do PUG-PE. Providenciamos um [modelo de confirmação de atividade](languages/portuguese/arquivos/modelos/EMAIL-CONFIRMACAO-ATIVIDADE.md) :smile:
 
 Após todas as confirmações, um excelente trabalho foi feito e a programação está oficialmente fechada!
