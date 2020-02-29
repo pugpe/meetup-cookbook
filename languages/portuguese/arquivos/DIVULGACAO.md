@@ -19,7 +19,7 @@ A seguir, ofereceremos algumas dicas para lhe ajudar.
 1. Lista de email do local que sediará o evento;
 2. Compartilhar em newsletter de eventos na região (ex. [Manguezal](https://comunidademanguezal.slack.com/))
 3. Compartilhar em grupos relacionados de Telegram, WhatsApp e outros
-4. Utilizar o Telegram/Twitter (caso você não tenha acesso, entre em contato com os adms)
+4. Utilizar o Telegram/Twitter/Instagram/Facebook (caso você não tenha acesso, entre em contato com os adms)
 5. Lista de email de pessoas chaves de empresa, universidades e outras comunidades
 5. Compartilhar por outras fontes, que forem vistas como necessárias
 
@@ -30,9 +30,14 @@ Após ter definido os locais onde seriam realizadas as divulgações, está na h
 
 **Você não é um designer? Você não conhece um designer?** Tudo bem, existem ferramentas onlines muito boas para compensar nossa falta de dotes artisticos. Uma delas é o [Canva](https://www.canva.com/), com ele você consegue criar folders a partir de templates prontos. 
 
+> Nós temos algumas pastas com contéudo gerado lá, se você quiser ver fale com algum adm que ele forncerá acesso para você. (infelizmente não dar pra gerar um link de compartilhamento)
+
 Mas o que você quer é dicas, certo? Utilizar, por exemplo, o Canva não é tão difícil. A dificuldade é como fazer o contéudo contido nele. Vamos lá!!
 
 - Se for inserir imagens ao template, utilize imagens *png*. Normalmente, não possuem fundo e são perfeitas para fazer arte.
 - Preste atenção na resolução. Cada rede social possuí sua resolução favorita, se atente a isso.
 - Insira imagens que signifiquem muito. Por exemplo, logo da Python, do Telegram, de universidade, de Twitter.
-- Insira data, local, links encurtados.
+- Insira data e local em destaque.
+- Utilize links encurtados.
+  - O [bitly](bitly.com) permite a gente editar a url gerada.
+  - Tente colocar um nome que faça sentido, como por exemplo, bit.ly/62pugpe
